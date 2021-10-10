@@ -1,0 +1,3 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  tbitfield.cpp
+  bitfield.vcxproj -> C:\Users\yaros\Desktop\Programs\bit\mp2-lab1-bitfield\sln\vc10\Debug\bitfield.lib
